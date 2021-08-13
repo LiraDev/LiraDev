@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**LiraDeveloper/LiraDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Bom dia, boa tarde ou boa noite!!!  
+  Sou um iniciante e apaixonado por programação. Fora os estudos acadêmicos, ando estudando sobre desenvolvimento WEB, especificamente no Front-end.
+<div>
+  <a href="https://github.com/LiraDeveloper">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiraDeveloper&layout=compact&langs_count=16&theme=highcontrast"/></a>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lira.HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%">
+  <img align="center" alt="Lira.CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%">
+  <img align="center" alt="Lira.JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%"
+</div>
+<br>
+- Acesse o meu LinkedIn ou me contate através do email: contatoguilhermelira1@gmail.com
